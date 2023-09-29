@@ -14,4 +14,5 @@ Flutter Sort Visualizer
 
 ![flutter_sort_visualizer](https://github.com/JaegerZzz/tzho0413_9103_tut02/assets/145730865/1ae6f733-ed21-4b9b-b624-d7467a1367f1)
 Through different sorts, it is possible to simulate the movement of different star trajectories during long exposure and leave traces, ultimately becoming part of the animate, simulating the entire long exposure photography art. In the process of geometrically regular motion and final sequential sorting, it is like the trails left by stars in a long exposure photograph, which can visualize the entire process of the long exposure star trails and reproduce the shooting of star trails.
+
 https://github.com/hamed-deriv/flutter_sort_visualizer
